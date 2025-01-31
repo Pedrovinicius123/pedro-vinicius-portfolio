@@ -71,6 +71,15 @@ h3 {
     padding: 30px;
 }
 
+.projects-section .project img{
+    width:300px
+
+}
+
+.projects-section .project a{
+    color:green;
+}
+
 .projects-section .project h3{
     text-align:justify;
 }
